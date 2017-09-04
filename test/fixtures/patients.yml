@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  mrn: MyString
+  first_name: MyString
+  middle_name: MyString
+  last_name: MyString
+  weight: 1
+  height: 1
+
+two:
+  mrn: MyString
+  first_name: MyString
+  middle_name: MyString
+  last_name: MyString
+  weight: 1
+  height: 1
